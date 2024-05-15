@@ -48,7 +48,6 @@ async function guiEvent(event) {
   const keyMatch = event.WidgetId.match(regexKey);
 
   if (keyMatch != null) {
-    console.log('test');
     if (event.Type === 'pressed') {
       console.log('key pressed', keyMatch[1]);
       // sendRemoteControlKeyCommand(keyMatch[1]);
