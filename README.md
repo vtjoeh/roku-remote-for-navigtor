@@ -10,6 +10,8 @@ Notes:
 
 let author = "joehughe" + "@" + "cisco.com"
 
-> The macro will set: xConfiguration HttpClient AllowHTTP: True
+The macro will set: 
+> xConfiguration HttpClient AllowHTTP: True
+
 
 <img width="420" alt="RokuRemote" src="https://github.com/vtjoeh/roku-remote-for-navigtor/assets/16569532/2515c526-e355-4f99-a7f6-8f2f2e11d5b9">
