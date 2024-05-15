@@ -5,7 +5,7 @@ Purpose: Simple Roku remote from the Cisco Navigatgor touchpnael.
 - IP Address of Roku needs to be hard coded into the macro. 
 - Roku does not support static ip addresses. Set a DHCP Reservation for the Roku device on the router or DHCP server. 
 - To enable HDCP and supported Cisco video devices see: https://help.webex.com/en-us/article/niew98v/Enable-HDCP-protected-content-on-Board-and-Room-Series
-- Set the IPADDRESS and 
+- Set the IPADDRESS and ROKU_HDMI_IN 
 
 let author = "joehughe" + "@" + "cisco.com"
 
