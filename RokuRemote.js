@@ -21,7 +21,7 @@ import xapi from 'xapi';
 
 const IPADDRESS = '192.168.1.113'; // IP Address of Roku device
 
-const ROKU_HDMI_IN = "3"; // input Roku is on for the Cisco video device.  This input should should support HDCP
+const ROKU_HDMI_IN = "3"; // input Roku is on for the Cisco video device.  This input should should support HDCP.
 
 /* ***************************************** */
 
