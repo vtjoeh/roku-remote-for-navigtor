@@ -17,7 +17,7 @@ Github: https://github.com/vtjoeh
 
 import xapi from 'xapi';
 
-/* updated the following two variables below */
+/* update the following two variables below */
 
 const IPADDRESS = '192.168.1.113'; // IP Address of Roku device
 
